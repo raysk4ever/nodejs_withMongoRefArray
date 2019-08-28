@@ -6,7 +6,9 @@ DATABASE Used: Mongodb
 
 API endpoints: 
 
-```GET and POST````
-/api/categories
-/api/games
-/api/user
+```GET and POST```
+<ul>
+<li>/api/categories</li>
+<li>/api/games</li>
+<li>/api/user</li>
+<ul>
